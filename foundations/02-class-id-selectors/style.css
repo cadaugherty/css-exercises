@@ -1,0 +1,25 @@
+.first-class {
+
+    background-color: pink;
+}
+
+#first-id {
+
+    font-size: 32px;
+    color: blue;
+}
+
+.second-class {
+
+    background-color: pink;
+    font-size: 24px;
+
+}
+
+#second-id {
+
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+
+}
